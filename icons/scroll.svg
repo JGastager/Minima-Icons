@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <path fill="currentColor" d="M16,3.5a6.25,6.25,0,0,1,6.25,6.25v12.5a6.25,6.25,0,0,1-12.5,0V9.75A6.25,6.25,0,0,1,16,3.5M16,1A8.75,8.75,0,0,0,7.25,9.75v12.5a8.75,8.75,0,0,0,17.5,0V9.75A8.75,8.75,0,0,0,16,1Z"/>
+    <path fill="currentColor" d="M16,14.74a1.25,1.25,0,0,1-1.25-1.25V9.74a1.25,1.25,0,0,1,2.5,0v3.75A1.25,1.25,0,0,1,16,14.74Z">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 3; 0 0" dur="1.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0 0.3 1; 0.4 0 0.8 1" />
+    </path>
+</svg>
