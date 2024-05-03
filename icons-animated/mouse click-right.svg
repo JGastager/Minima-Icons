@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <rect stroke-width="2" stroke="currentColor" fill="none" class="b" x="8.25" y="2" width="15.5" height="28" rx="7.71"/>
+    <path fill="currentColor" d="M23.74,14.25V9.72A7.66,7.66,0,0,0,16,2V13.25a1,1,0,0,0,1,1Z">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0; 0.5; 0.7; 0.8; 1" dur="2s" repeatCount="indefinite" />
+    </path>
+</svg>

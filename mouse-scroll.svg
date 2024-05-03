@@ -1,5 +1,0 @@
-<svg id="eoAMZDgv1rx1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-<style><![CDATA[
-#eoAMZDgv1rx3_to {animation: eoAMZDgv1rx3_to__to 2000ms linear 1 normal forwards}@keyframes eoAMZDgv1rx3_to__to { 0% {transform: translate(16px,11.615px);animation-timing-function: cubic-bezier(0.5,-0.005,0.5,1)} 35% {transform: translate(16px,14.125px);animation-timing-function: cubic-bezier(0.5,0,0.5,1)} 100% {transform: translate(16px,11.615px)}}
-]]></style>
-<path d="M16,3c3.725639.005507,6.744493,3.024361,6.75,6.75v12.5C22.75,25.977922,19.727922,29,16,29s-6.75-3.022078-6.75-6.75v-12.5C9.255507,6.024361,12.274361,3.005507,16,3m0-2C11.167508,1,7.25,4.917508,7.25,9.75v12.5C7.25,27.082492,11.167508,31,16,31s8.75-3.917508,8.75-8.75v-12.5C24.75,4.917508,20.832492,1,16,1Z" fill="#202020"/><g id="eoAMZDgv1rx3_to" transform="translate(16,11.615)"><line x1="16" y1="9.74" x2="16" y2="13.49" transform="translate(-16,-11.615)" fill="none" stroke="#202020" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/></g></svg>

@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Environment variables file
+.env
+
+# Illustrator files
+*.ai
